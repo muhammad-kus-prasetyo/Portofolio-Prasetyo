@@ -31,7 +31,7 @@ function App() {
           <h1 className="text-5xl/tight font-bold mb-6">Hi, Saya Muhammad Kus Prasetyo</h1>
           <p className="text-base/loose mb-6 opacity-50 text-justify">Saya memiliki ketertarikan di bidang pengembangan web, khususnya dalam membangun aplikasi berbasis website menggunakan Laravel, CodeIgniter, React, dan Spring Boot, serta didukung dengan penggunaan Docker dan kemampuan dalam pengelolaan database serta pengembangan fitur aplikasi. Ketertarikan ini telah saya tekuni selama lebih dari 3 tahun.</p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="../public/assets/cv/Muhammad Kus Prasetyo - CV.pdf" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download CV <i className="ri-download-line ri-lg"></i></a>
+            <a href="/assets/cv/Muhammad Kus Prasetyo - CV.pdf" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download CV <i className="ri-download-line ri-lg"></i></a>
             <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">Lihat Proyek <i className="ri-arrow-down-long-line ri-lg"></i></a>
           </div>
         </div>
