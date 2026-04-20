@@ -32,7 +32,7 @@ const Footer = () => {
                             <li className="flex items-center gap-2">
                                 <i className="ri-whatsapp-line text-xl"></i>
                                 <a
-                                    href="https://wa.me/628xxxxxxxxxx"
+                                    href="https://wa.me/6285643735039"
                                     target="_blank"
                                     className="hover:text-teal-400"
                                 >
@@ -42,7 +42,7 @@ const Footer = () => {
                             <li className="flex items-center gap-2">
                                 <i className="ri-mail-line text-xl"></i>
                                 <a
-                                    href="mailto:emailkamu@gmail.com"
+                                    href="mailto:muhammadkusprasetyo@gmail.com"
                                     className="hover:text-teal-400"
                                 >
                                     muhammadkusprasetyo@gmail.com
@@ -51,7 +51,7 @@ const Footer = () => {
                             <li className="flex items-center gap-2">
                                 <i className="ri-github-line text-xl"></i>
                                 <a
-                                    href="https://github.com/usernamekamu"
+                                    href="https://github.com/2100018090"
                                     target="_blank"
                                     className="hover:text-teal-400"
                                 >
