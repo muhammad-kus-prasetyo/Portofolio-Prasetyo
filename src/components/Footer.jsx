@@ -51,7 +51,7 @@ const Footer = () => {
                             <li className="flex items-center gap-2">
                                 <i className="ri-github-line text-xl"></i>
                                 <a
-                                    href="https://github.com/2100018090"
+                                    href="https://github.com/muhammad-kus-prasetyo?tab=repositories"
                                     target="_blank"
                                     className="hover:text-teal-400"
                                 >

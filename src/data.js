@@ -141,16 +141,18 @@ export const listTools = [
 import Proyek1 from "/assets/proyek/proyek-1.png";
 import Proyek2 from "/assets/proyek/proyek-2.png";
 import Proyek3 from "/assets/proyek/proyek-3.png";
-import Proyek4 from "/assets/proyek/proyek4.webp";
-import Proyek5 from "/assets/proyek/proyek5.webp";
-import Proyek6 from "/assets/proyek/proyek6.webp";
+import Proyek4 from "/assets/proyek/proyek-4.jpeg";
+import Proyek5 from "/assets/proyek/proyek-5.jpeg";
+// import Proyek4 from "/assets/proyek/proyek4.webp";
+// import Proyek5 from "/assets/proyek/proyek5.webp";
+// import Proyek6 from "/assets/proyek/proyek6.webp";
 
 export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
     nama: "Website MardekaLiterasi",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    desk: "MardekaLiterasi adalah aplikasi web untuk mendukung kegiatan literasi di TBM Mardeka Membaca, seperti peminjaman buku, pengelolaan data, dan akses informasi secara digital agar lebih mudah, cepat, dan terorganisir.",
     tools: ["Laravel", "Blade", "Javascript", "MySql", "Supebase", "Taliwind CSS"],
     dad: "200",
   },
@@ -158,7 +160,7 @@ export const listProyek = [
     id: 2,
     gambar: Proyek2,
     nama: "Website Bimbingan Konseling",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    desk: "Website Bimbingan Konseling adalah platform digital untuk memudahkan pengguna melakukan konsultasi, mendapatkan layanan konseling, dan mengakses informasi bimbingan secara cepat, mudah, dan rahasia.",
     tools: ["Vite", "React Js", "Taliwind CSS", "Javascript", "Node Js", "Monggo DB"],
     dad: "300",
   },
@@ -166,34 +168,34 @@ export const listProyek = [
     id: 3,
     gambar: Proyek3,
     nama: "Website Perpustakan",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    desk: "Website Perpustakaan adalah platform digital untuk memudahkan pengelolaan dan akses layanan perpustakaan seperti peminjaman buku, pencarian koleksi, dan informasi secara cepat dan terorganisir.",
     tools: ["Vite", "ReactJS", "TailwindCSS", "Sping-Boot", "Mysql"],
     dad: "400",
   },
   {
     id: 4,
     gambar: Proyek4,
-    nama: "Website Course",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
+    nama: "Website MedicaCare",
+    desk: "MedicaCare adalah aplikasi web berbasis Laravel + React (Inertia.js) yang digunakan untuk mengelola sistem informasi klinik dan apotek, termasuk data pasien, jadwal dokter, rekam medis, resep digital, dan stok obat dalam satu platform modern.",
+    tools: ["Laravel", "Inertia.js ", "Tailwind CSS", "Vite", "React Icons"],
     dad: "500",
   },
   {
     id: 5,
     gambar: Proyek5,
-    nama: "Web Portfolio",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["HTML", "CSS", "Javascript", "Bootsrap"],
+    nama: "Web E-Surat Museum",
+    desk: "E-Surat adalah aplikasi untuk membuat, mengirim, dan mengelola surat secara digital agar lebih cepat, mudah, dan tanpa kertas.",
+    tools: ["Node js", "React js", "Express js", "MySql", "Tailwind CSS"],
     dad: "600",
   },
-  {
-    id: 6,
-    gambar: Proyek6,
-    nama: "Company Profile 2.0",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["NextJS", "TailwindCSS", "Framermotion"],
-    dad: "700",
-  },
+  // {
+  //   id: 6,
+  //   gambar: Proyek6,
+  //   nama: "Company Profile 2.0",
+  //   desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+  //   tools: ["NextJS", "TailwindCSS", "Framermotion"],
+  //   dad: "700",
+  // },
 ];
 
 import Sertif1 from "/assets/Sertifikat/Sertifikat Komdigi.png";
